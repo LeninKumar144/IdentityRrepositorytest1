@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[User Name--->MATTHEW PLANZ]]>
+    </line>
+    <line>
+      <![CDATA[Membership Number--->19163000036819]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29419" started-at="2021-04-26T12:39:06 IST" finished-at="2021-04-26T12:39:35 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29419" started-at="2021-04-26T12:39:06 IST" finished-at="2021-04-26T12:39:35 IST">
+      <class name="TestPackeage.NewTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestPackeage.NewTest@25af5db5]" name="beforeMethod" is-config="true" duration-ms="10893" started-at="2021-04-26T12:39:06 IST" finished-at="2021-04-26T12:39:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="NewTest()[pri:0, instance:TestPackeage.NewTest@25af5db5]" name="NewTest" duration-ms="18433" started-at="2021-04-26T12:39:17 IST" finished-at="2021-04-26T12:39:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[User Name--->MATTHEW PLANZ]]>
+            </line>
+            <line>
+              <![CDATA[Membership Number--->19163000036819]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- NewTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestPackeage.NewTest@25af5db5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-04-26T12:39:35 IST" finished-at="2021-04-26T12:39:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestPackeage.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
